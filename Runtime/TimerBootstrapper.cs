@@ -2,7 +2,6 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.LowLevel;
 using UnityEngine.PlayerLoop;
-using UnityUtils.LowLevel;
 
 namespace ImprovedTimers {
     internal static class TimerBootstrapper {

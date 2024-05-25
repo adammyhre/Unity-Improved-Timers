@@ -52,6 +52,21 @@ and the `IsFinished` property which is a convenience for consumers.
 
 Call `Dispose` when you don't need a Timer anymore to ensure proper garbage collection.
 
+## How to Install
+
+Simply download the library into your Unity project and access the utilities across your scripts or import it in Unity with 
+the Unity Package Manager using this URL:
+
+`https://github.com/adammyhre/Unity-Improved-Timers.git`
+
+### Add to Manifest
+
+Alternatively, you can add the following line to your project's `manifest.json` file.
+
+```
+"com.gitamend.improvedtimers": "https://github.com/adammyhre/Unity-Improved-Timers.git"
+```
+
 ## YouTube
 
 - [Improved Timers in Unity](https://youtu.be/ilvmOQtl57c)
