@@ -1,6 +1,6 @@
 {
   "name": "com.gitamend.improvedtimers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Improved Timers",
   "description": "Improved Timer System for Unity that hooks into the Unity Player Loop.",
   "unity": "2022.1",
