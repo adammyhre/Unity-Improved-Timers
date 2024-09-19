@@ -14,6 +14,7 @@ namespace ImprovedTimers {
                 if (playerLoopSystemList[i].type == systemToRemove.type && playerLoopSystemList[i].updateDelegate == systemToRemove.updateDelegate) {
                     playerLoopSystemList.RemoveAt(i);
                     loop.subSystemList = playerLoopSystemList.ToArray();
+                    return;
                 }
             }
             
