@@ -1,3 +1,7 @@
+## [1.0.3] - 2025-09-21
+### Interval Timer
+- Adds Interval Timer That Fires A Callback At Regular Intervals
+
 ## [1.0.2] - 2024-06-15
 ### Disable Logging
 - Removes the call to automatically list all Player Loop Systems during bootstrap
